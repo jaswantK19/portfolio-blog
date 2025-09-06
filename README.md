@@ -68,7 +68,7 @@ portfolio-blog/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio-blog.git
+   git clone https://github.com/jaswantK19/portfolio-blog.git
    cd portfolio-blog
    ```
 
@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Jaswant Kondur**
 - Portfolio: [Your Portfolio URL]
 - LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@jaswantK19](https://github.com/jaswantK19)
 
 ## 🙏 Acknowledgments
 
